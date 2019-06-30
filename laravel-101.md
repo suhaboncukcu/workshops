@@ -1,4 +1,4 @@
-# Laravel - 101
+# Laravel - 101 - "Laravel ile bir blog ve blog apisi yazmak"
 
 ## Ben Kimim
 
